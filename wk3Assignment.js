@@ -125,5 +125,4 @@ let pagesToRead = 0;
     }
     return 'You will need ' + pagesToRead + ' more hours to finish your book.'
  }
- console.log(canFinishBook(400,40,8));
-
+ console.log(canFinishBook(450,40,8));
